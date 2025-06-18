@@ -111,7 +111,7 @@ function App() {
 
               <div className='flex flex-col sm:flex-row gap-4'>
                 <a
-                  href='/src/app/intrack.exe'
+                  href=''
                   className='inline-flex items-center justify-center bg-white text-blue-900 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-all duration-200 transform hover:scale-105 shadow-lg'>
                   <Download className='w-5 h-5 mr-2' />
                   Download Now
@@ -434,7 +434,7 @@ function App() {
 
           <div className='flex flex-col sm:flex-row gap-6 justify-center'>
             <a
-              href='/src/app/intrack.exe'
+              href=''
               className='inline-flex items-center justify-center bg-white text-blue-600 px-10 py-5 rounded-xl font-bold text-lg hover:bg-blue-50 transition-all duration-200 transform hover:scale-105 shadow-xl'>
               <Download className='w-6 h-6 mr-3' />
               Download InTrack
